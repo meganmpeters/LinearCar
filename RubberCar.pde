@@ -1,4 +1,4 @@
-
+//Birds are cool, owl bet!
 Table data;
 float maxValue;
 float minValue;
